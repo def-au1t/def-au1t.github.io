@@ -3,10 +3,8 @@ layout: default
 ---
 
 
-# Projekty:
+# Car Football
 
-## Car Football
-
-[Link do projektu](./car-football/index.html)
+[Link to game](./car-football/index.html)
 
 
