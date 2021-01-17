@@ -6,6 +6,6 @@ title: Jacek Nitychoruk
 
 # Car Football
 
-[Link to game](./car-football/index.html)
+[Link to game](./car-football/)
 
 
